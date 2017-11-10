@@ -1,5 +1,5 @@
 {
-  "name": "react-autocomplete",
+  "name": "react-input-autocomplete",
   "version": "1.0.0",
   "description": "",
   "main": "src/javascript/index.js",
@@ -15,7 +15,10 @@
     "ReactJs",
     "css"
   ],
-  "author": "Vitaliy Hnatyk",
+   "author": {
+    "name": "Vitaliy Hnatyk",
+    "email": "vitaliy.hnatyk@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/VitaliyHnatyk/react-autocomplete/issues"
